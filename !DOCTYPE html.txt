@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html>
+ 
+  <tittle> All About My Dogs </tittle>
+  
+  <p>In this article, you will learn about my dogs and facts. Their nicknames, breed, age, and much more!</p>
+  
+  <p>This is Don Julio. How to pronounce Don Julio, people might ask. It is pronounced "dawn-huu-li-o." Don Julio is 8 months as of the date August 8th, 2023. His birthday is Novemember 24. Many people say it may be unique and cool to have a birthday on Thanksgiving, and i agree with that. Don Julio's nickname is Donnie. Donnie is the first dog we have that is not a golden doodle. Donnie is a Mini Australian Labradoodle, and he likes to lick and bite. </p>
+  
+  
+  <body> There Is Still Another Two Left, So Buckle Up!</body>
+  
+  
+<p> Malibu is also a really cool dog. He is 2 years old and his birthday is in 12 days! I am very excited for him to turn 3. He is one of the calmest dogs you will meet. He shows love and licks anyone. I find it funny, but others may not. Malibu was my birthday present and he was so cute as a baby. He was a poodle mix with a golden doodle. Malibu's nickname is Booter, Boot, Boo, and Mali.</p>
+
+  
+  
+  <body> Last Dog... Here We GO!!! </body>
+  
+  
+  <p> Our last doggie is Mojito. Mojito passed away but otherwise he would be 14. He had a shiny coat and he was the perfect dog. Our family said it took him 2 days to potty train himself. That is SUPER quick!!!! Mojito like the others, was named after a drink! Mojito was a golden doodle mixed with a labradoodle. Mojito's nicknames were Moyya, Big dipper, etc.</p>
+  
+  
+  <body> I Hope You Learned A Lot About My Doggies. We Had 3 In Total And All Of Them Are AMAZING! </body>
+  
+  
+  
+  
+    
+
+  </body>
+</html>
